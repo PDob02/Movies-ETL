@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#
+config.py
+archive.zip
+movies_metadata.csv
+ratings.csv
+wikipedia_movies.json
